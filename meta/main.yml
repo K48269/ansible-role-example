@@ -1,6 +1,6 @@
 galaxy_info:
-  author: KiranReddyChalla
-  description: this is sample that how to do 
+  author: your name
+  description: your role description
   company: your company (optional)
 
   # If the issue tracker for your role is not on github, uncomment the
@@ -27,10 +27,11 @@ galaxy_info:
   # To view available platforms and versions (or releases), visit:
   # https://galaxy.ansible.com/api/v1/platforms/
   #
-   platforms:
-   - name: centos
-     versions:
-     - all
+  # platforms:
+  # - name: Fedora
+  #   versions:
+  #   - all
+  #   - 25
   # - name: SomePlatform
   #   versions:
   #   - all
