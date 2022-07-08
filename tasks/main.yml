@@ -1,2 +1,5 @@
-- name: execute data command
-  ansible.builtin.command: date
+    - name: this is running the sample command
+      command: "{{ item }}"
+      with_items:
+          - date
+          - users
